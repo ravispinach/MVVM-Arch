@@ -1,6 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
-import ArticlesView from './view/article/articleView';
+import "./App.css";
+import ArticlesView from "./view/article/articleView";
 
 function App() {
   return (
